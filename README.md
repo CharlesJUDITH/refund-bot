@@ -8,6 +8,7 @@ Refund bot for delegators
 **This is currently in progress**
 
 **TODO**
+
 [] add config file for multiple chain
 [] improve README
 
